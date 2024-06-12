@@ -7,7 +7,7 @@ trigger:
 - '*'
 
 pool:
-  name: token_codespace_toys_module
+  name: 'Default'
 
 variables:
   buildConfiguration: 'Release'
